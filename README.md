@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+🌄 Dar Aytma Khamlia – Official Website
+A multilingual website for a family-owned desert restaurant and guesthouse in Khamlia, near Merzouga, Morocco.
 
-## Project info
+🏡 About
+Dar Aytma Khamlia offers visitors an authentic Sahara experience. Located just 7 km from Merzouga in the peaceful village of Khamlia, the guesthouse provides traditional Moroccan cuisine, comfortable rooms, desert tents, and a variety of cultural and adventure activities such as 4×4 tours, Gnawa music, and cooking classes.
 
-**URL**: https://lovable.dev/projects/2e961577-6b94-441d-a356-dd9c9b0e0140
+🌐 Features
+🔤 Multilingual support: English, French, and Spanish
 
-## How can I edit this code?
+📸 Beautiful homepage featuring desert sunset and Berber decor
 
-There are several ways of editing your application.
+🍲 Full Moroccan restaurant menu
 
-**Use Lovable**
+🛌 Room listings with AC, tents, and local amenities
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2e961577-6b94-441d-a356-dd9c9b0e0140) and start prompting.
+🚗 4×4 Sahara excursions & overnight desert stays
 
-Changes made via Lovable will be committed automatically to this repo.
+📱 Contact page with WhatsApp link, social media, and embedded map
 
-**Use your preferred IDE**
+⚡ Fully responsive design, optimized for all devices
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🔧 Tech Stack
+Created using Lovable.dev
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Modern responsive layout (HTML, CSS, JS)
 
-Follow these steps:
+SEO-friendly and multi-language ready
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Optimized assets (WebP/AVIF formats)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2e961577-6b94-441d-a356-dd9c9b0e0140) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+📍 Location
+📌 Khamlia Village, Merzouga, Morocco
+🌐 Google Maps
