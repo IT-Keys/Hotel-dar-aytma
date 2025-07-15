@@ -106,7 +106,7 @@ const Footer = () => {
         <div className="mt-8 pt-8 border-t border-border">
           <div className="flex flex-col sm:flex-row justify-between items-center">
             <p className="text-sm text-muted-foreground">
-              © 2025 Dar Aytma khamlia Merzouga. BY ITKEYS.
+              © 2025 Dar Aytma khamlia Merzouga. BY <a href="https://www.itkeys.net" target="_blank" rel="noopener noreferrer" className="underline hover:text-primary">ITKEYS</a>.
             </p>
             <p className="text-sm text-muted-foreground mt-2 sm:mt-0">
               All rights reserved.
