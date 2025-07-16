@@ -29,7 +29,7 @@ const Index = () => {
 
   const galleryImages = [
     { src: "/lovable-uploads/bff23fc7-4a22-4326-b752-ac3d339e0849.png", alt: "Traditional courtyard seating" },
-    { src: "https://images.unsplash.com/photo-1469041797191-50ace28483c3?q=80&w=1200", alt: "4x4 desert tour" },
+    { src: "/lovable-uploads/c0e89f21-fc29-426e-989a-c5ee13ecd8df.png", alt: "4x4 desert tour" },
     { src: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=1200", alt: "Cooking class" },
     { src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1200", alt: "Starlit campfire" }
   ];
