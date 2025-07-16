@@ -31,7 +31,7 @@ const Index = () => {
     { src: "/lovable-uploads/bff23fc7-4a22-4326-b752-ac3d339e0849.png", alt: "Traditional courtyard seating" },
     { src: "/lovable-uploads/c0e89f21-fc29-426e-989a-c5ee13ecd8df.png", alt: "4x4 desert tour" },
     { src: "/lovable-uploads/bff23fc7-4a22-4326-b621-ac3d339e0.png", alt: "Cooking class" },
-    { src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1200", alt: "Starlit campfire" }
+    { src: "/lovable-uploads/c218bbb1-64b6-492c-b4f2-eca65e1c4ea0.png", alt: "Starlit campfire" }
   ];
 
   const testimonials = [
